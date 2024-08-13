@@ -1,3 +1,10 @@
+pytesseract
+tesseract
+google-auth-oauthlib
+google-api-python-client
+llama_index
+unstructured[all-docs]
+googleapis
 jupyterlab
 jupyterlab_execute_time
 yfiles-jupyter-graphs
