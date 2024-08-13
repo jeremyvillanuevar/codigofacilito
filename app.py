@@ -9,7 +9,7 @@ company_logo = 'https://www.app.nl/wp-content/uploads/2019/01/Blendle.png'
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="Your Notion Chatbot",
+    page_title="Proyecto de Codigo Facilito",
     page_icon=company_logo
 )
 
@@ -21,7 +21,7 @@ if 'chain' not in st.session_state:
 if 'messages' not in st.session_state:
     # Start with first message from assistant
     st.session_state['messages'] = [{"role": "assistant", 
-                                  "content": "Hi human! I am Blendle's smart AI. How can I help you today?"}]
+                                  "content": "Hola humano! Soy el segundo Cerebro. Disculpa cómo te puedo apoyar hoy?"}]
 
 # Display chat messages from history on app rerun
 # Custom avatar for the assistant, default avatar for user
