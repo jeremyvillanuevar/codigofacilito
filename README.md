@@ -1,6 +1,9 @@
 Buen día,
 
-Se puede acceder al asistente por el siguiente link:
+Disculpen los detalles se encuentran en el pdf descripción del proyecto.
+https://github.com/jeremyvillanuevar/codigofacilito/blob/main/Proyecto%20Segundo%20Cerebro.pdf
+
+Se puede acceder al asistente en vivo a través del siguiente link:
 https://codigofacilito-esvrahlvzd8m44ilquyqbj.streamlit.app/
 
 Por favor espero feedback,
