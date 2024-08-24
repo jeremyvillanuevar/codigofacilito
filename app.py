@@ -21,7 +21,7 @@ if 'chain' not in st.session_state:
 if 'messages' not in st.session_state:
     # Start with first message from assistant
     st.session_state['messages'] = [{"role": "assistant", 
-                                  "content": "Hola humano! Soy el segundo Cerebro. Disculpa cómo te puedo apoyar hoy?"}]
+                                  "content": "Hola humano! Soy el segundo Cerebro. Te ayudo con tu Gestión de tareas y recordatorios y Búsqueda de información de notas de mis clases de Data Science con el lenguaje de programación R, generación de ideas y soluciones creativas, Resumen y síntesis de información, y Planificación y programación de eventos. Disculpa cómo te puedo apoyar hoy?"}]
 
 # Display chat messages from history on app rerun
 # Custom avatar for the assistant, default avatar for user
