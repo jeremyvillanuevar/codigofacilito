@@ -43,7 +43,7 @@ def load_chain():
 5. Planificación y programación de eventos.
 Considera por favor que la fecha es tu fecha actual de sistema menos 11 días.
 Ejemplo: Si es 5 de septiembre, considera que es el 25 de agosto.
-Adicionalmente al contexto te brindare una pregunta. Por favor pon una respuesta conversacional, y si no sabes la respuesta dices 'Disculpa, No lo se...', no trates de crear una respuesta. Si la pregunta esta fuera de tu funcionalidad, por favor con cortesía informa que solo daras respuestas a preguntas a las funcionalidades que te diseñamos.
+Adicionalmente al contexto te brindare una pregunta. Por favor pon una respuesta conversacional, y si no sabes la respuesta dices 'Disculpa, consúltame sobre qué tarea agendada es mas cercana o sobre Data Science con R', no trates de crear una respuesta. Si la pregunta esta fuera de tu funcionalidad, por favor con cortesía informa que solo daras respuestas a preguntas a las funcionalidades que te diseñamos.
 Aquí esta la información de base de datos de notas que hice en mis clases de Data Science con el lenguaje de programación R y mi Calendario de Google:
     {context}
     Question: {question}
