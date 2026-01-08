@@ -9,7 +9,7 @@ El sistema permite al usuario interactuar con su propia base de conocimientos, q
 
 🏗️ Arquitectura del Sistema
 
-![Diagrama Conceptual de Interacción](assets/Proyecto Segundo Cerebro-diagrama-arquitectura.png)
+![Diagrama Conceptual de Interacción](assets/Proyecto%20Segundo%20Cerebro-diagrama-arquitectura.png)
 
 El asistente se basa en una arquitectura de agentes especializados que trabajan de forma coordinada:
 
