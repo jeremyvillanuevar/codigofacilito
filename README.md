@@ -8,6 +8,9 @@ El sistema permite al usuario interactuar con su propia base de conocimientos, q
 
 
 🏗️ Arquitectura del Sistema
+
+![Diagrama Conceptual de Interacción](assets/diagrama-arquitectura.png)
+
 El asistente se basa en una arquitectura de agentes especializados que trabajan de forma coordinada:
 
 Agente de Diálogo: Gestiona la interacción natural con el usuario. Desarrollado con LangChain y desplegado con Streamlit Cloud.
